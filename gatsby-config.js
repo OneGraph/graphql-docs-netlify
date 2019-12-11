@@ -4,6 +4,8 @@ module.exports = {
     title: `GraphQL Schema Reference`,
     description: `Full reference for GraphQL Schema.`,
     author: `@onegraphio`,
+    // Put siteUrl here, then uncomment gatsby-plugin-sitemap below to make it easy for Google to index your site
+    // siteUrl: 'your-site-url',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -61,7 +63,8 @@ module.exports = {
     },
     `gatsby-transformer-remark`,
     `gatsby-plugin-meta-redirect`,
-    `gatsby-plugin-sitemap`,
+    // Enter siteUrl able, then uncomment gatsby-plugin-sitemap below to make it easy for Google to index your site
+    // `gatsby-plugin-sitemap`,
     `gatsby-plugin-remove-trailing-slashes`,
     `@bumped-inc/gatsby-plugin-optional-chaining`,
     // this (optional) plugin enables Progressive Web App + Offline functionality
