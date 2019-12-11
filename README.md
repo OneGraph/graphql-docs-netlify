@@ -1,6 +1,8 @@
-This is the repo that powers [OneGraph's schema documentation](https://www.onegraph.com/schema).
+This is a version of the [repo](https://github.com/onegraph/graphql-docs) that powers [OneGraph's schema documentation](https://www.onegraph.com/schema).
 
 It creates a static Gatsby site that contains documentation for every type in your schema.
+
+Deploy your own schema reference with one Click!
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/OneGraph/graphql-docs-netlify)
 
