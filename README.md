@@ -2,6 +2,9 @@ This is the repo that powers [OneGraph's schema documentation](https://www.onegr
 
 It creates a static Gatsby site that contains documentation for every type in your schema.
 
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/OneGraph/graphql-docs-netlify)
+
+
 ##  Quick start
 
 
